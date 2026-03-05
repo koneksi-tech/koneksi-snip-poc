@@ -122,7 +122,7 @@ export function UploadHistory({
   }
 
   return (
-    <div className="absolute right-0 top-full z-30 mt-2 w-full min-w-[360px] max-w-[420px] rounded-xl border border-white/10 bg-[#2a2a3a] shadow-xl">
+    <div className="absolute right-0 top-full z-30 mt-2 w-full min-w-[380px] max-w-[420px] rounded-xl border border-white/10 bg-[#2a2a3a] shadow-xl">
       <div className="flex items-center justify-between border-b border-white/10 px-4 py-3">
         <h3 className="text-sm font-semibold text-white">Your images</h3>
         <div className="flex items-center gap-1">
